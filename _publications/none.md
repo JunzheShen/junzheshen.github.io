@@ -6,6 +6,5 @@ excerpt: 'xxx'
 date: 2024-01-01
 venue: 'xxx'
 paperurl: 'xxx'
-citation: 'xxx'
 ---
 
