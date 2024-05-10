@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/none
 venue: "xxx"
-date: 2024-13-32
+date: 2024-01-01
 location: "xxx"
 ---
 
