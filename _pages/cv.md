@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Undergraduate @ Shanghai Jiaotong Univ.
+* PhD Student @ Shanghai Jiaotong Univ.
 
 Publications
 ======
